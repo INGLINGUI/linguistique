@@ -9,11 +9,12 @@ puis les appliquer aux docs (Apply lexical ressources), on sélectionne les deux
 -- Arborescence des graphes --
 
 Final
-     - Hours
-          - hours-numeric (12:48)
-          - hours-with-letter (12h - 12h48 12 heures)
-     - Date (jours (lettre/chiffre) - mois - année optionnelle)
-         - years 
+
+- Hours
+	- hours-numeric (12:48)
+	- hours-with-letter (12h - 12h48 12 heures)
+- Date (jours (lettre/chiffre) - mois - année optionnelle)
+	- years 
         
 
 
