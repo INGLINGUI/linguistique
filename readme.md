@@ -49,15 +49,15 @@ Reconnait les années positives de 0 à 2015
 
 Date
 
-mardi 01 mars
-mardi 01 mars 2008
-mardi 10 mars
-mardi 10 mars 2008
-10 mars 2008
-10 mars
-mardi 10 11 2008
-mardi 10/11/2008
-10/11/2008
+- mardi 01 mars
+- mardi 01 mars 2008
+- mardi 10 mars
+- mardi 10 mars 2008
+- 10 mars 2008
+- 10 mars
+- mardi 10 11 2008
+- mardi 10/11/2008
+- 10/11/2008
 
 protection contre 30 février / 31 septembre
 
@@ -72,15 +72,15 @@ Dans la première partie on reconnait :
 
 Dans la seconde partie 
 
-20 h à 21:30
-20 heures à 21 heures
-20 heures jusqu'à 21 heures 30
-etc.
+- 20 h à 21:30
+- 20 heures à 21 heures
+- 20 heures jusqu'à 21 heures 30
+- etc.
 
 Troisième partie 
 
-mercredi 4 septembre 2004 au mercredi 4 septembre 2005
-mercredi 4 septembre 2004 et le jeudi 5 septembre 2004
-mercredi 4/05/2004 au ...
-mercredi 4 05 2004 au ...
-date simple
+- mercredi 4 septembre 2004 au mercredi 4 septembre 2005
+- mercredi 4 septembre 2004 et le jeudi 5 septembre 2004
+- mercredi 4/05/2004 au ...
+- mercredi 4 05 2004 au ...
+- date simple
