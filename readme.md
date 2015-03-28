@@ -11,9 +11,9 @@ puis les appliquer aux docs (Apply lexical ressources), on sélectionne les deux
 Final
 
 - Hours
-	- hours-numeric (12:48)
-	- hours-with-letter (12h - 12h48 12 heures)
-- Date (jours (lettre/chiffre) - mois - année optionnelle)
+	- hours-numeric
+	- hours-with-letter
+- Date
 	- years 
         
 
@@ -84,3 +84,4 @@ Troisième partie
 - mercredi 4/05/2004 au ...
 - mercredi 4 05 2004 au ...
 - date simple
+- en 1990-1992
