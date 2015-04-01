@@ -1,3 +1,17 @@
+
+-----------------------------------------------------------------------
+How to use :
+-----------------------------------------------------------------------
+
+- Il faut compiler les deux dico's
+	- Months.inf
+	- Days.inf
+- Les appliquer sur le document à traiter
+- Puis appliquer le graphe final.grf qui fera appel aux autres graphes
+
+-----------------------------------------------------------------------
+
+
 -- Dico --
 
 Il faut les compresser (Menu Dela -> compress)
