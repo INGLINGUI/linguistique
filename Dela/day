@@ -5,3 +5,10 @@ jeudi,.N+Day:n
 vendredi,.N+Day:n
 samedi,.N+Day:n
 dimanche,.N+Day:n
+lundis,.N+Day:n
+mardis,.N+Day:n
+mercredis,.N+Day:n
+jeudis,.N+Day:n
+vendredis,.N+Day:n
+samedis,.N+Day:n
+dimanches,.N+Day:n
